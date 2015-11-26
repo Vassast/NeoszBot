@@ -1,5 +1,4 @@
 import IrcConnection
-import WolfpackRPGEngine
 import MessageHandler
 
 
